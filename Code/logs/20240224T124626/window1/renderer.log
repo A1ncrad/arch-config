@@ -1,0 +1,4 @@
+2024-02-24 12:46:27.660 [info] Started local extension host with pid 3503.
+2024-02-24 12:46:27.699 [info] Started initializing default profile extensions in extensions installation folder. file:///home/timur/.vscode/extensions
+2024-02-24 12:46:27.871 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/timur/.vscode/extensions
+2024-02-24 12:46:30.544 [info] [perf] Render performance baseline is 18ms

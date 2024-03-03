@@ -1,0 +1,6 @@
+2024/03/03-11:40:12.743 6a8 Reusing MANIFEST /home/timur/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/03/03-11:40:12.743 6a8 Recovering log #23
+2024/03/03-11:40:12.743 6a8 Reusing old log /home/timur/.config/discord/Local Storage/leveldb/000023.log 
+2024/03/03-11:44:02.546 74b Level-0 table #27: started
+2024/03/03-11:44:02.564 74b Level-0 table #27: 2944915 bytes OK
+2024/03/03-11:44:02.567 74b Delete type=0 #23

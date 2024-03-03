@@ -1,0 +1,7 @@
+[Added Associations]
+image/png=cmake-gui.desktop;mpv.desktop;meh.desktop;
+text/plain=firefox.desktop;
+
+[Default Applications]
+image/png=meh.desktop
+text/plain=firefox.desktop
